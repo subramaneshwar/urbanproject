@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/urbanproject/static/css/main.3476d127.css",
+    "main.js": "/urbanproject/static/js/main.be660eba.js",
+    "static/js/787.513e1264.chunk.js": "/urbanproject/static/js/787.513e1264.chunk.js",
+    "index.html": "/urbanproject/index.html",
+    "main.3476d127.css.map": "/urbanproject/static/css/main.3476d127.css.map",
+    "main.be660eba.js.map": "/urbanproject/static/js/main.be660eba.js.map",
+    "787.513e1264.chunk.js.map": "/urbanproject/static/js/787.513e1264.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3476d127.css",
+    "static/js/main.be660eba.js"
+  ]
+}
